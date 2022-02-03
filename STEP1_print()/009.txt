@@ -1,0 +1,4 @@
+a
+b c (comma prints next input with space)
+D
+EF
