@@ -1,4 +1,5 @@
 a
-b c (comma prints next input with space)
-D
+b c D
+why does D come after b c?
+-> since print method was ended with end = ~, it works similar with java's print().
 EF
